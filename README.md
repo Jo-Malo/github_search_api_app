@@ -22,8 +22,5 @@ npm start
   * [Github API V3](https://developer.github.com/v3/search/)
   * [Bootstrap 4](http://getbootstrap.com/)
 
-## Authors
-* **Jo Malo**
-
 ## Sources of help
 Big thanks to ziad-saab in particular for guidance via the [react-github-api-project](https://github.com/ziad-saab/react-github-api-project).
