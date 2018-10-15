@@ -17,10 +17,16 @@ npm start
 ```
 
 ## Built with:
+
   * [create-react-app](https://github.com/facebook/create-react-app?files=1)
   * [Axios Promise based HTTP client](https://github.com/axios/axios)
   * [Github API V3](https://developer.github.com/v3/search/)
   * [Bootstrap 4](http://getbootstrap.com/)
 
+## Areas for further development
+
+Error handling, sandtimer/hourglass symbol, ability to filter, testing  
+
 ## Sources of help
-Big thanks to ziad-saab in particular for guidance via the [react-github-api-project](https://github.com/ziad-saab/react-github-api-project).
+
+A brilliant tutorial from ziad-saab in particular for guidance via the [react-github-api-project](https://github.com/ziad-saab/react-github-api-project).
