@@ -1,0 +1,11 @@
+{
+  "name": "Github App",
+  "description": "Github Repository Search Application",
+  "author": "Jo Malo",
+  "icons": [
+    {
+      "src": "search.ico",
+      "sizes": "48x48",
+    }
+  ],
+}

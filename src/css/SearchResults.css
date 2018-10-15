@@ -1,0 +1,23 @@
+.container{
+    padding: 0;
+}
+
+.container .row {
+  padding: 0.2rem 0;
+  justify-content: space-evenly;
+}
+
+.search-toolbar{
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  justify-content: space-evenly;
+}
+
+.search-toolbar .row{
+  justify-content: flex-start;
+  font-weight: bold;
+}
+
+.row.repository{
+  justify-content: flex-start;
+}
