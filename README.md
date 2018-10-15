@@ -1,6 +1,6 @@
 # GitHub Repositories Search App
 
-# Introduction
+## Introduction
 
 This web app will allow the user to search GitHub repositories using the GitHub Search API.
 

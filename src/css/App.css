@@ -7,6 +7,11 @@
   justify-content: center;
 }
 
+.app-header img {
+  width: 100px;
+  height: 100px;
+}
+
 .main-container{
   height: 100%;
   display: flex;

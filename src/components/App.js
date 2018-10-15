@@ -79,6 +79,7 @@ class App extends Component {
     return (
       <Aux>
         <header className="app-header">
+          <img src="./search.ico" alt="logo"/>
           <h1> Github Repository Search </h1>
         </header>
 
