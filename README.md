@@ -25,7 +25,7 @@ npm start
 
 ## Areas for further development
 
-Error handling, sandtimer/hourglass symbol, ability to filter, testing  
+Given more time I would definitely pay the following areas more attention: error handling, sandtimer/hourglass symbol for the time taken to pull results, to add the ability to filter results and a much greater focus on testing.  
 
 ## Sources of help
 
