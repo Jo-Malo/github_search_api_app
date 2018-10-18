@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import '../css/SearchResults.css';
-import Aux from '../helper/Hoc';
+import Hoc from '../helper/Hoc';
 import SearchResultDisplay from './SearchResultDisplay';
 
 class SearchResults extends Component {
@@ -17,7 +17,7 @@ class SearchResults extends Component {
         })
 
         return (
-            <Aux>
+            <Hoc>
                 <div className="container-fluid container search-toolbar">
                     <div className="row">
                         <div className="col-4"> Name </div>
@@ -28,7 +28,7 @@ class SearchResults extends Component {
                 <div className="container-fluid container">
                     {searchResults}
                 </div>
-            </Aux>
+            </Hoc>
         );
     }
 }

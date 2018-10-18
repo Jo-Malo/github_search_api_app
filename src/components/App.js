@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Aux from '../helper/Hoc';
+import Hoc from '../helper/Hoc';
 import Search from './Search';
 import SearchResults from './SearchResults';
 import axios from 'axios';
@@ -77,7 +77,7 @@ class App extends Component {
 
   render() {
     return (
-      <Aux>
+      <Hoc>
         <header className="app-header">
           <img src="./search.ico" alt="logo"/>
           <h1> Github Repository Search </h1>
@@ -97,7 +97,7 @@ class App extends Component {
           </div>
 
         </div>
-      </Aux>
+      </Hoc>
     );
   }
 }
